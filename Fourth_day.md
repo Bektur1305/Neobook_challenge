@@ -1,0 +1,1 @@
+Created my first API, get acquainted with serializers, post, get commands.
